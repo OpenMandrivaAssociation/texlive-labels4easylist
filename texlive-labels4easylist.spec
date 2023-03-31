@@ -1,6 +1,6 @@
 Name:		texlive-labels4easylist
 Version:	51124
-Release:	1
+Release:	2
 Summary:	Add reference labels to easylist items
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/labels4easylist
