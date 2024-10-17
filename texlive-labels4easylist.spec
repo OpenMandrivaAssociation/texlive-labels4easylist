@@ -3,7 +3,7 @@ Version:	51124
 Release:	2
 Summary:	Add reference labels to easylist items
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/labels4easylist
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/labels4easylist
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/labels4easylist.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/labels4easylist.doc.r%{version}.tar.xz
